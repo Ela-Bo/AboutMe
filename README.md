@@ -6,6 +6,7 @@ Welcome to my Profile - nice to meet you!
 ## Why does a Recruiter have a GitHub profile? Because I am going to be a Data Scientist!
 
 Normally I introduce myself with the following .. 
+
 I am an experienced HR professional with 9+ years of experience in international environments. 
 I started my career as a generalist to afterwards specialize in the field of Talent Acquisition (Recruiting & Employer Branding). 
 
@@ -15,7 +16,8 @@ For example I worked in the fast-paced industries of Gaming & E-Commerce - going
 ## To pick up the ball again - in the future I would like to introduce myself as follows:
 
 I am an experienced HR professional and a Data Scientist. 
-Sincec September 2020 I started my journey to explore the world of e.g. data mining, data cleaning, data exploration .. as well as pair programming, reviews, daily stand ups and an upcoming final capstone project. I am trying to figure out how I can initiate changes and be part of it. Especially interested in the HR-Analytics environment - I am curios to take a deep dive into the world of Data Science. Showing the world that Recruiters are not only annoying and like google says [„a waste of time“](https://www.recruiterly.com/blog/8-things-google-says-recruiters-are-and-8-things-they-actually-are/.) :-) 
+
+In September 2020 I started my journey to explore the world of e.g. data mining, data cleaning, data exploration .. as well as pair programming, reviews, daily stand ups and an upcoming final capstone project. I am trying to figure out how I can initiate changes and be part of it. Especially interested in the HR-Analytics environment - I am curios to take a deep dive into the world of Data Science. Showing the world that Recruiters are not only annoying and like google says [„a waste of time“](https://www.recruiterly.com/blog/8-things-google-says-recruiters-are-and-8-things-they-actually-are/.) :-) 
 
 
 ## Don't hesitate to connect
@@ -25,6 +27,6 @@ If you are more interested what I've done before - here you can find my [linkedi
 
 ### Remember .. 
 
-You are a superduper amazing talnzed go getter. 
+You are a superduper amazing talnted go getter. 
 Let nothing stand in you way ever. 
-[:-)](https://github.com/Ela-Bo/AboutMe/blob/master/way.jpg)
+[https://github.com/Ela-Bo/AboutMe/blob/master/way.jpg]
