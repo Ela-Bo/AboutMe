@@ -1,4 +1,4 @@
-# About_Me
+# About Me
 
 Welcome to my Profile - nice to meet you!   
 
@@ -17,7 +17,7 @@ For example I worked in the fast-paced industries of Gaming & E-Commerce - going
 
 I am an experienced HR professional and a Data Scientist. 
 
-In September 2020 I started my journey to explore the world of e.g. data mining, data cleaning, data exploration .. as well as pair programming, reviews, daily stand ups and an upcoming final capstone project. I am trying to figure out how I can initiate changes and be part of it. Especially interested in the HR-Analytics environment - I am curios to take a deep dive into the world of Data Science. Showing the world that Recruiters are not only annoying and like google says [„a waste of time“](https://www.recruiterly.com/blog/8-things-google-says-recruiters-are-and-8-things-they-actually-are/.) :-) 
+In September 2020 I started my journey to explore the world of e.g. data mining, data cleaning, data exploration .. as well as pair programming, reviews, daily stand ups and a final capstone project. I am trying to figure out how I can initiate changes and be part of it. Especially interested in the HR-Analytics environment - I am curios to take a deep dive into the world of Data Science. Showing the world that Recruiters are not only annoying and like google says [„a waste of time“](https://www.recruiterly.com/blog/8-things-google-says-recruiters-are-and-8-things-they-actually-are/.) ;-) I am sure it won't be an easy way but where there’s no will, there’s no way - and motivation makes things happen. Who knows - maybe I can motivate others to keep an eye on Data Science in HR. 
 
 
 ## Don't hesitate to connect
