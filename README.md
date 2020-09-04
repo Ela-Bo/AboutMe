@@ -1,4 +1,4 @@
-# AboutMe
+# About_Me
 
 Welcome to my Profile - nice to meet you!   
 
@@ -29,4 +29,5 @@ If you are more interested what I've done before - here you can find my [linkedi
 
 You are a superduper amazing talented go getter. 
 Let nothing stand in you way ever. 
-[https://github.com/Ela-Bo/AboutMe/blob/master/way.jpg]
+
+![](https://github.com/Ela-Bo/AboutMe/blob/master/way.jpg)
