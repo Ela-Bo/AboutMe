@@ -10,7 +10,7 @@ Normally I introduce myself with the following ..
 I am an experienced HR professional with 9+ years of experience in international environments. 
 I started my career as a generalist to afterwards specialize in the field of Talent Acquisition (Recruiting & Employer Branding). 
 
-For example I worked in the fast-paced industries of Gaming & E-Commerce - going through digitalization challenges. As part of HR, I like to encourage and support those changes. But I often see a big gap between HR and digitalization and especially the transformative potential of HR-Analytics is generally not recognised. Intrinsically motivated and based on my interests - I am currently part of the Data Science Bootcamp of [neue fische.](https://www.neuefische.de/?gclid=Cj0KCQjwy8f6BRC7ARIsAPIXOjg2z_2VmVERTAiLm3-bUEoQF5hzd6_Xa4nG-3HbauedCsUIFwnihhkaAv6CEALw_wcB)
+For example I worked in the fast-paced industries of Gaming & E-Commerce - going through digitalization challenges. As part of HR, I like to encourage and support those changes. But I often see a big gap between HR and digitalization and especially the transformative potential of HR-Analytics is not recognised. Intrinsically motivated and based on my interests - I am currently part of the Data Science Bootcamp of [neue fische.](https://www.neuefische.de/?gclid=Cj0KCQjwy8f6BRC7ARIsAPIXOjg2z_2VmVERTAiLm3-bUEoQF5hzd6_Xa4nG-3HbauedCsUIFwnihhkaAv6CEALw_wcB)
 
 
 ## To pick up the ball again - in the future I would like to introduce myself as follows:
