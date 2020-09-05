@@ -1,6 +1,6 @@
 # About Me
 
-Welcome to my Profile - nice to meet you!   
+Welcome to my profile - nice to meet you!   
 
 
 ## Why does a Recruiter have a GitHub profile? Because I am going to be a Data Scientist!
