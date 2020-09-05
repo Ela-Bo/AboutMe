@@ -23,7 +23,7 @@ In September 2020 I started my journey to explore the world of e.g. data mining,
 ## Don't hesitate to connect
 
 If you'd like to evaluate new ideas in the field of Data Science in HR - I’ll be happy to have a chat in english or german. 
-If you are more interested what I've done before - here you can find my [linkedin Profile](https://www.linkedin.com/in/raphaela-boll-298803a2/)
+If you are more interested in what I've done before - here you can find my [linkedin Profile](https://www.linkedin.com/in/raphaela-boll-298803a2/) or [Xing Profile](https://www.xing.com/profile/Raphaela_Boll/portfolio). 
 
 ### Remember .. 
 
